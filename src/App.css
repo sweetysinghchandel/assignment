@@ -51,11 +51,6 @@ nav ul li a {
   color: white;
 }
 
-nav ul li a:hover {
-  /* color: rgb(122, 122, 237); */
-  /* font-size: 1.2rem; */
-}
-
 
 /* ...............HOME SECTION............ */
 
@@ -76,6 +71,9 @@ nav ul li a:hover {
   font-size: 20px;
   width: 80%;
 }
+.relative {
+  position: relative;
+}
 
 .btn-primary,.btn-secondary{
   border: 0;;
@@ -88,7 +86,9 @@ nav ul li a:hover {
   height: 35px;
 }
 .img-wallet{
-  display: inline;
+  position: absolute;
+  left: 5px;
+  top:0;
 }
 .btn-primary {
   background-color: #3eb489;

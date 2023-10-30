@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <div className="footer">
-      <img src="/images/logo.png" alt="Total Trading" width="100px" />
+      <img src="/assignment/images/logo.png" alt="Total Trading" width="100px" />
       <div className="link-container">
         <a href="https://twitter.com/zomi.finance">
           <i className="fa-brands fa-twitter"></i>

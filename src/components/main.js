@@ -15,7 +15,7 @@ function Container() {
       </section>
       <div className="result-container">
         <div className="asset-card">
-          <img src="./images/ic_trading.2c53815a.svg" alt="Total Trading" />
+          <img src="./assignment/images/ic_trading.2c53815a.svg" alt="Total Trading" />
 
           <div className="result-info">
             <p>Total Trading Value</p>
@@ -23,7 +23,7 @@ function Container() {
           </div>
         </div>
         <div className="asset-card">
-          <img src="./images/ic_stats.f0a18011.svg" alt="Total Trading" />
+          <img src="./assignment/images/ic_stats.f0a18011.svg" alt="Total Trading" />
 
           <div className="result-info">
             <p>Open Interest</p>
@@ -31,7 +31,7 @@ function Container() {
           </div>
         </div>
         <div className="asset-card">
-          <img src="./images/ic_totaluser.ae09b310.svg" alt="Total Trading" />
+          <img src="./assignment/images/ic_totaluser.ae09b310.svg" alt="Total Trading" />
 
           <div className="result-info">
             <p>Total Users</p>

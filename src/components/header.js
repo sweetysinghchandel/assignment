@@ -7,7 +7,7 @@ function Header() {
         <div className="info-card">
           <div className="card2">
             <img
-              src="./images/ic_liquidity.505b3f30 (1).svg"
+              src="./assignment/images/ic_liquidity.505b3f30 (1).svg"
               alt="Total Trading"
             />
 
@@ -20,7 +20,7 @@ function Header() {
         </div>
         <div className="info-card">
           <div className="card2">
-            <img src="./images/ic_cost.b4a729d3 (1).svg" alt="Total Trading" />
+            <img src="./assignment/images/ic_cost.b4a729d3 (1).svg" alt="Total Trading" />
 
             <h3>Save on Costs</h3>
           </div>
@@ -32,7 +32,7 @@ function Header() {
         <div className="info-card">
           <div className="card2">
             <img
-              src="./images/ic_simpleswaps.2005009f (2).svg"
+              src="./assignment/images/ic_simpleswaps.2005009f (2).svg"
               alt="Total Trading"
             />
             <h3>Simple Swaps</h3>
@@ -48,7 +48,7 @@ function Header() {
         <div className="zomi">
           <div className="card2">
             <img
-              src="./images/download (1).png"
+              src="./assignment/images/download (1).png"
               alt="Total Trading"
               height="40px"
             />
@@ -66,7 +66,7 @@ function Header() {
         <div className="zlp">
           <div className="card2">
             <img
-              src="./images/download (2).png"
+              src="./assignment/images/download (2).png"
               alt="Total Trading"
               height="40px"
             />

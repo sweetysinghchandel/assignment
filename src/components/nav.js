@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
     <nav>
-      <img className="logo" src="/images/logo.png" alt="Total Trading" />
+      <img className="logo" src="/assignment/images/logo.png" alt="Total Trading" />
       <div className="left"></div>
       <div className="right">
         <ul>
@@ -32,17 +32,17 @@ function Navbar() {
             <a href="/">About</a>
           </li>
           <button className="btn-primary">Trade</button>
-          {/* <img src="./images/download(1).png" alt="Total Trading"/> */}
+          {/* <img src="./assignment/images/download(1).png" alt="Total Trading"/> */}
             
-          <button className="btn-secondary">
+          <button className="btn-secondary relative">
             <img
               className="img-wallet"
-              src="./images/wallet.svg"
+              src="./assignment/images/wallet.svg"
               alt="Total Trading"
               width="30px"
             />
 
-            <span>Connect Wallet</span>
+            <span style={{marginLeft:20}}>Connect Wallet</span>
           </button>
         </ul>
       </div>
